@@ -1,0 +1,15 @@
+#subject{
+    margin-bottom: 10px;
+}
+#sucsess_message{
+    color: green;
+}
+#fail_message{
+    color: red;
+}
+#contact_form .captcha {
+    margin-bottom: 10px;
+}
+#contact_form .captcha_failed {
+    border-color: red;
+}

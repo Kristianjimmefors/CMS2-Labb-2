@@ -1,0 +1,9 @@
+#custom-a{
+    box-shadow: inset 0 0 0 black;
+}
+#custom-button{
+    width: 120px;
+    height: 55px;
+    border-radius: 20px;
+    font-size: 14px;
+}
